@@ -1,0 +1,33 @@
+return - ends a function
+don't change global variable - do similar; return Global + 1
+randint, random, choice, recursion
+
+pythontutor.com (online debugger), Thonny ide (installed on laptop)
+http://patorjk.com/software/taag (Create an ASCII)
+draw.io(Flowchart), skitch.com(for sketching)
+
+
+Pycharm cool features
+------------------------
+VCS ; Local history
+Split vertically/horizontally
+structure - shows your opened code components
+refactor -> rename is smarter than replace all
+# TODO
+Multi line editing: hold down Alt  and Shift (windows), commant + shift (mac)
+except ValueError as e:
+except Exception:
+
+https://support.microsoft.com/en-us/windows/windows-10-keyboard-tips-and-tricks-588e0b72-0fff-6d3f-aeee-6e5116097942
+https://emojipedia.org/hot-beverage/
+colorgram.py; hirst spot painting
+
+Ensuring GREEN
+---------------
+SWIFT - GitOps(Infrastructure -as-code),DICE(Bitbuckets-Ansible), Pair programming, DevSecOps[Coverity(security scans, (In Test - MSB, Nessus), Sonaqube(code-quality)]
+Feature toggling.
+Operational monitoring - To ensure systems are working as expected
+Business monitoring - Feature usage , efficiency, satisfaction
+Delivery flow efficiency (incident recovery, frequency, failure rate)
+CIntegration, CTesting, CDelivery, CMeasuring
+Automation - build, scan, test, deploy

@@ -1,0 +1,4 @@
+https://flask.palletsprojects.com/en/2.0.x/
+https://flask.palletsprojects.com/en/2.0.x/quickstart/#rendering-templates
+Note that Flask is a framework, hence the usage documentation must be strictly adhered to
+shift+refresh (force reloading) after re-rendering all static files as chrome caches

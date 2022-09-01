@@ -1,0 +1,6 @@
+python -m pip install Flask-SQLAlchemy
+python -m pip install Flask
+Start the sqllite db installed in desktop and open cafes.db in it to view
+I added query-apis.py to test API without using Postman using python requests library
+To view cafes.db -> https://www.udemy.com/course/100-days-of-code/learn/lecture/22563100#overview
+Published API documentation from my Postman Workspace    https://documenter.getpostman.com/view/19679845/UVkjwdfN
